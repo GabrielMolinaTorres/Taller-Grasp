@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\BLL.dll
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\ENTITY.dll
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\DAL.dll
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\BLL.pdb
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\ENTITY.pdb
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\bin\Debug\DAL.pdb
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\obj\Debug\PRESENTA.B379FE65.Up2Date
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\ESTUDIANTES\Documents\Camilo_P3_C#\Biblioteca\PRESENTACION\obj\Debug\PRESENTACION.pdb
